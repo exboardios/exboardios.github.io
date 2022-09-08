@@ -12,8 +12,6 @@ ExBoard is a custom iOS keyboard that is designed to reduce repetitive typing, a
 
 2. Syncing snippets across multiple devices
 
-3. 
-
 ## Use Cases
 
 The App is great for:
