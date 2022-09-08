@@ -1,7 +1,5 @@
 # FAQs
 
-
-
 ### How to install keyboard app in IOS
 
 1. Open Settings Page
@@ -44,3 +42,9 @@ Snippet variable is a placeholder which will be replaced when the snippet is ins
 | Decimal fraction (f)         | Fractions of seconds, any degree of accuracy |
 
 The [ISO 8601 Wiki](https://en.wikipedia.org/wiki/ISO_8601) explains in detail what symbols are allowed in a `${DATE|format}` variable.
+
+
+
+### Additional Questions
+
+If you have additional questions, you can send an e-mail to ex.board.ios+support@gmail.com
