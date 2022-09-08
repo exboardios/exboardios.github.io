@@ -18,11 +18,7 @@ ExBoard is a custom iOS keyboard that is designed to reduce repetitive typing, a
 
 The App is great for:
 
-* phrase abbreviations
-  
-  * brb -> be right back!
-  
-  * omw -> On my way!
+* phrase abbreviations such as: brb -> be right back!, omw -> On my way!
 
 * e-mail templates
 

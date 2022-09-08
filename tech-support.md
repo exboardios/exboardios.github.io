@@ -1,8 +1,6 @@
 # FAQs
 
----
 
-## General
 
 ### How to install keyboard app in IOS
 
@@ -20,23 +18,13 @@
 
 7. Tap on 'Allow full control'
 
-
-
 ### How to restore purchase on another device?
 
 N/A
 
-
-
 ### Why do I have to enable Full Access?
 
 ExBoard uses Full Keyboard Access to allow the Main App to communicate with the Keyboard Extension. This way, the Snippets that are created in the Main App can be seen in the Keyboard itself.
-
-
-
----
-
-## Snippets
 
 ### What is a snippet variable?
 
@@ -56,19 +44,3 @@ Snippet variable is a placeholder which will be replaced when the snippet is ins
 | Decimal fraction (f)         | Fractions of seconds, any degree of accuracy |
 
 The [ISO 8601 Wiki](https://en.wikipedia.org/wiki/ISO_8601) explains in detail what symbols are allowed in a `${DATE|format}` variable.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
